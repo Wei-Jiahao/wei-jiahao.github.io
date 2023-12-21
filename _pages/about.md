@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello👋! My name is Longqian Huang, an enthusiast in advancing cutting-edge optical technologies for brain science.
+Hello👋! My name is Jiahao Wei, an enthusiast in advancing cutting-edge optical technologies for lensless microscopy.
 
 Previously, I got my bachelor's degree in Optical Engineering from Zhejiang University in 2022, with an honors degree from Chu Kochen Honors College. During my undergraduate, I was fortunate to work closely with Prof. Xiang Hao and Prof. Xu Liu on several research projects regarding computational imaging. I received 'Top 10 Academic Achievements in Zhejiang University Students' in 2022.
 
